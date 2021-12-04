@@ -1,16 +1,16 @@
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
-baseurl: https://bong860313.github.io/norahouse.github.io/
-url: https://bong860313.github.io/norahouse.github.io/
+baseurl: https://bong860313.github.io
+url: https://bong860313.github.io
 date_format: "ordinal"
 title: Bong's Blog
 subtitle: "Bong's Blog"
-description: "Bong's Blog"
+description: "随笔，树洞，新的尝试"
 keywords: Bong
 timezone: Asia/Shanghai
 encoding: "utf-8"
-repository: bong860313/norahouse.github.io
+repository: bong860313/bong860313.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
