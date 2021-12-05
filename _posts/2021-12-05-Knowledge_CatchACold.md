@@ -59,7 +59,7 @@ topmost: false
 
 ### 参考链接
 
-1. [颠覆认知：着凉到底会不会导致感冒？| 商周专栏](http://www.zhishifenzi.com/depth/depth/6451.html)
+1. [颠覆认知：着凉到底会不会导致感冒？](http://www.zhishifenzi.com/depth/depth/6451.html)
 
 2. [普通感冒-维基百科](https://zh.wikipedia.org/wiki/%E6%99%AE%E9%80%9A%E6%84%9F%E5%86%92)
 
