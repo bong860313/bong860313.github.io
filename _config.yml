@@ -1,7 +1,9 @@
+
+
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
-baseurl: https://bong860313.github.io
+baseurl: 
 url: https://bong860313.github.io
 date_format: "ordinal"
 title: Bong's Blog
