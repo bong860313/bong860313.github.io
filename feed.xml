@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://bong860313.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://bong860313.github.io/" rel="alternate" type="text/html" /><updated>2022-03-20T21:07:36+08:00</updated><id>https://bong860313.github.io/feed.xml</id><title type="html">Bong’s Blog</title><subtitle>随笔，树洞，新的尝试</subtitle><author><name>Bong</name></author><entry><title type="html">20220319记录</title><link href="https://bong860313.github.io/2022/03/19/Notes/" rel="alternate" type="text/html" title="20220319记录" /><published>2022-03-19T00:00:00+08:00</published><updated>2022-03-19T00:00:00+08:00</updated><id>https://bong860313.github.io/2022/03/19/Notes</id><content type="html" xml:base="https://bong860313.github.io/2022/03/19/Notes/">&lt;p&gt;周六 多云 热起来了&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://bong860313.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://bong860313.github.io/" rel="alternate" type="text/html" /><updated>2022-03-26T23:38:01+08:00</updated><id>https://bong860313.github.io/feed.xml</id><title type="html">Bong’s Blog</title><subtitle>随笔，树洞，新的尝试</subtitle><author><name>Bong</name></author><entry><title type="html">20220326记录</title><link href="https://bong860313.github.io/2022/03/26/Notes/" rel="alternate" type="text/html" title="20220326记录" /><published>2022-03-26T00:00:00+08:00</published><updated>2022-03-26T00:00:00+08:00</updated><id>https://bong860313.github.io/2022/03/26/Notes</id><content type="html" xml:base="https://bong860313.github.io/2022/03/26/Notes/">&lt;p&gt;周六  雨 回南天来了又走&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;本周回南天，干衣全靠除湿机，不开空调除湿的话地上全是水。直观的感受就是空调除湿能力不如除湿机，还冷，但老爸问“为什么”我答不上来。附上&lt;a href=&quot;https://www.zhihu.com/question/24518430&quot;&gt;答案&lt;/a&gt;节选如下：&lt;/p&gt;
+
+    &lt;blockquote&gt;
+      &lt;p&gt;除湿机工作时，在风机的作用下把潮湿的空气吸入进风口，之后经过&lt;a href=&quot;https://www.zhihu.com/search?q=蒸发器&amp;amp;search_source=Entity&amp;amp;hybrid_search_source=Entity&amp;amp;hybrid_search_extra={&amp;quot;sourceType&amp;quot;%3A&amp;quot;answer&amp;quot;%2C&amp;quot;sourceId&amp;quot;%3A1758256044}&quot;&gt;蒸发器&lt;/a&gt;冷凝空气中的水分，空气水分被凝结后收集到水箱，变得干燥的空气再由&lt;a href=&quot;https://www.zhihu.com/search?q=冷凝器&amp;amp;search_source=Entity&amp;amp;hybrid_search_source=Entity&amp;amp;hybrid_search_extra={&amp;quot;sourceType&amp;quot;%3A&amp;quot;answer&amp;quot;%2C&amp;quot;sourceId&amp;quot;%3A1758256044}&quot;&gt;冷凝器&lt;/a&gt;从出风口排出。&lt;/p&gt;
+
+      &lt;p&gt;而空调的除湿有两种模式。&lt;/p&gt;
+
+      &lt;p&gt;第一种是空调在&lt;a href=&quot;https://www.zhihu.com/search?q=制冷模式&amp;amp;search_source=Entity&amp;amp;hybrid_search_source=Entity&amp;amp;hybrid_search_extra={&amp;quot;sourceType&amp;quot;%3A&amp;quot;answer&amp;quot;%2C&amp;quot;sourceId&amp;quot;%3A1758256044}&quot;&gt;制冷模式&lt;/a&gt;下的除湿。制冷是空调的基本功能，空调制冷的过程中，空气经过空调蒸发器温度会下降，空气中的水汽会通过&lt;a href=&quot;https://www.zhihu.com/search?q=冷凝水&amp;amp;search_source=Entity&amp;amp;hybrid_search_source=Entity&amp;amp;hybrid_search_extra={&amp;quot;sourceType&amp;quot;%3A&amp;quot;answer&amp;quot;%2C&amp;quot;sourceId&amp;quot;%3A1758256044}&quot;&gt;冷凝水&lt;/a&gt;的形式凝结在蒸发器内，空气湿度自然降低。&lt;/p&gt;
+
+      &lt;p&gt;第二种是独立除湿模式。这种模式也叫做&lt;a href=&quot;https://www.zhihu.com/search?q=恒温除湿&amp;amp;search_source=Entity&amp;amp;hybrid_search_source=Entity&amp;amp;hybrid_search_extra={&amp;quot;sourceType&amp;quot;%3A&amp;quot;answer&amp;quot;%2C&amp;quot;sourceId&amp;quot;%3A1758256044}&quot;&gt;恒温除湿&lt;/a&gt;。它与制冷模式下的除湿有一点不同，制冷模式除湿后的空气温度低，而恒温除湿则是把途经蒸发器冷却的空气再次加热，将降下来的温度还原之后再返回室内。这样一来，室内湿度下降，而室内温度基本不受影响，一直处于相对稳定的状态。（简图如下）&lt;/p&gt;
+
+      &lt;p&gt;传统空调制冷模式下的除湿，是借助制冷这个基本功能，可以理解除湿是降温过程中伴随产生的结果，所以收效略低。此种模式下，如果想要实现比较好的除湿效果，需保证空调一直处于制冷状态。在本身温度较低的室内环境中，这种除湿模式会增加人体的不适感，且会造成电量的浪费。在室外温度较高且室内空气湿度大的情况下，选择制冷除湿模式会比较好。&lt;/p&gt;
+
+      &lt;p&gt;而除湿机与空调独立除湿模式效果基本无异，都是先通过内部降温，析出空气中水分之后还原空气温度，一次来达到室内温度稳定。这种情况下，体感温度无太大变化，相对比较舒适。在温度相对较低、湿度较大的季节使用除湿机和空调独立模式，效果更好。&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;东航空难，作为以飞机为主的出差狗心有戚戚，但该坐还得坐。买个意外险？&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;上海的疫情控制已经是热门话题，深圳全封一周就给压下去了，上海搞车轮战反而有点两头不靠的感觉，数字爆的厉害，市民生活也受影响。我是不相信什么“共存试点城市”一说的，对经济影响太大了，压根毫无必要。我自己认为爆发的主要原因是上海一贯以来以快速流调为基础的精准防控手段面对高传染性的Omicron失灵了，调整又太慢导致错过了靠区域封闭遏制疫情扩散的时机。网上挺多人叫嚣封城，实在是太理想主义了，3000多万人口说封就封？谁来送菜？目前的车轮战都已经搞的怨声载道，全封更不敢想。我估计后面大概率还是靠当前的手段苟住，熬到拐点的一天，苦日子还有至少半个月。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;抗疫路线的争议也已白热化。实事求是是我党的优良传统，如果短时间之内不出现具备新特性的变种，切换到共存模式基本是板上钉钉，也是讲科学的一种体现。但做任何大事都需要讲究一个“势”，因势利导，将主动权掌握在自己手里，躺平也得选个好地方，不能躺在泥地里不是？现在这个节点切换我认为绝不是一个好时机，群众对COVID-19的认识需要更新，老人的疫苗接种率需要提高，医疗系统、民生系统、社区管理机构也需要为新常态做好准备，这些目前都没有，贸然切换政策必然会造成极大混乱。我认为理想的情况是，几个爆发点（深圳、上海、东北）在未来一两个月的时间控制乃至清零，再用半年时间在全国普及加强针（最好能引入更高效的疫苗），同时国外的疫情基本平息，境外输入减少，此时逐步放开对外交流，用新的策略处理输入造成的局部爆发，战斗中完善策略，最终实现全面放开。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;本周没啥育儿感悟，圆圆继续烦人，我的养气功夫似乎也有所退步，可能是太久没出差了吧，吼了她好几次，效果可想而知的烂。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;去年今日，福州三坊七巷的个性天后宫。&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/bong860313/MyImage/202203262320365.png&quot; alt=&quot;image-20220326232036108&quot; /&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/bong860313/MyImage/202203262321165.png&quot; alt=&quot;image-20220326232100923&quot; /&gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/bong860313/MyImage/202203262321055.png&quot; alt=&quot;image-20220326232127822&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;</content><author><name>Bong</name></author><category term="Daily" /><summary type="html">周六 雨 回南天来了又走</summary></entry><entry><title type="html">20220319记录</title><link href="https://bong860313.github.io/2022/03/19/Notes/" rel="alternate" type="text/html" title="20220319记录" /><published>2022-03-19T00:00:00+08:00</published><updated>2022-03-19T00:00:00+08:00</updated><id>https://bong860313.github.io/2022/03/19/Notes</id><content type="html" xml:base="https://bong860313.github.io/2022/03/19/Notes/">&lt;p&gt;周六 多云 热起来了&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;
@@ -254,18 +295,4 @@
 
     &lt;p&gt;（从微信上截的图，不小心把This is the last one的提示也截进去了，居然觉得有点好意头，真希望一切赶紧过去。）&lt;/p&gt;
   &lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Bong</name></author><category term="Daily" /><summary type="html">周六 怎么又开始潮湿了衣服晾不干</summary></entry><entry><title type="html">20220116记录</title><link href="https://bong860313.github.io/2022/01/16/Notes/" rel="alternate" type="text/html" title="20220116记录" /><published>2022-01-16T00:00:00+08:00</published><updated>2022-01-16T00:00:00+08:00</updated><id>https://bong860313.github.io/2022/01/16/Notes</id><content type="html" xml:base="https://bong860313.github.io/2022/01/16/Notes/">&lt;p&gt;周日 看着天外阴沉沉的天&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;服了Omicron大神。老板周四刚说看起来一切OK，下周惠州TB见，紧接着周五上海就破防了，周六北京再破防，Game over。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;温泉Over了，PPT还得做。准备了一堆吐槽，又怕表现的太不积极向上了，影响了老板心目中的形象。Anyway，明天再看看要不要改。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;心烦意乱，写不下去了。嘟嘟喂兔子镇楼。&lt;/p&gt;
-
-    &lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/bong860313/MyImage/202201161628968.png&quot; alt=&quot;image-20220116162839217&quot; /&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Bong</name></author><category term="Daily" /><summary type="html">周日 看着天外阴沉沉的天</summary></entry></feed>
+&lt;/ol&gt;</content><author><name>Bong</name></author><category term="Daily" /><summary type="html">周六 怎么又开始潮湿了衣服晾不干</summary></entry></feed>
