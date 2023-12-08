@@ -1,0 +1,61 @@
+git add *
+git commit -m "XXXXXXXX"
+git pull
+git push origin master
+
+
+After personal token expired there will be error message as following:
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/bong860313/bong860313.github.io/'
+
+Renew personal token as following:
+要在GitHub上生成访问令牌，请按照以下步骤进行操作：
+
+1. 登录到你的GitHub帐户。
+
+2. 点击右上角的头像，然后选择"Settings"（设置）。
+
+3. 在左侧菜单中，选择"Developer settings"（开发者设置）。
+
+4. 在Developer settings页面中，选择"Personal access tokens"（个人访问令牌）。
+
+5. 点击"Generate new token"（生成新令牌）。
+
+6. 在"Token description"（令牌描述）字段中，输入一个描述性的名称，以便于识别该令牌的用途。
+
+7. 在"Select scopes"（选择范围）部分，选择与你的访问令牌相关的权限。根据你的需求，你可以选择不同的权限，如代码库、部署、存储库、用户等。
+
+8. 选择完成后，向下滚动页面，然后点击"Generate token"（生成令牌）。
+
+9. 生成的访问令牌将显示在屏幕上。请注意，出于安全考虑，令牌只会显示一次。请复制并保存该令牌。
+
+10. 一旦你离开该页面，你将无法再次查看该令牌。如果你失去了该令牌，你需要生成一个新的令牌。
+
+请确保妥善保管生成的访问令牌，不要将其泄露给他人。你可以在需要使用访问令牌的地方，如Git命令行或其他应用程序中，将其作为密码进行使用。
+
+
+Then input:
+
+一旦你生成了访问令牌，你可以将其用作认证凭据来进行GitHub相关操作，例如使用Git命令行或其他应用程序。
+
+在使用Git命令行时，你可以按照以下步骤进行配置：
+
+1. 打开命令行界面。
+
+2. 进入你的Git仓库所在的文件夹。
+
+3. 输入以下命令，将生成的访问令牌配置为凭据：
+   ```
+   git config --global credential.helper store
+   ```
+
+4. 然后，使用以下命令将访问令牌作为密码进行推送：
+   ```
+   git push origin master
+   ```
+
+当你运行推送命令时，Git将提示你输入用户名和密码。这时，你只需将访问令牌粘贴到密码字段中，并按下Enter键。
+
+请注意，该访问令牌将作为明文存储在你的电脑中。因此，请确保妥善保管你的电脑，防止其他人访问到该访问令牌。
+
+如果你使用的是其他应用程序，例如基于GitHub的开发工具或API，你可以按照该应用程序的文档或设置指南，将访问令牌配置为你的认证凭据。每个应用程序的配置方式可能会有所不同，因此请参考该应用程序的相关文档以获取更详细的指导。
