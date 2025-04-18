@@ -60,3 +60,10 @@ Then input:
 请注意，该访问令牌将作为明文存储在你的电脑中。因此，请确保妥善保管你的电脑，防止其他人访问到该访问令牌。
 
 如果你使用的是其他应用程序，例如基于GitHub的开发工具或API，你可以按照该应用程序的文档或设置指南，将访问令牌配置为你的认证凭据。每个应用程序的配置方式可能会有所不同，因此请参考该应用程序的相关文档以获取更详细的指导。
+
+当遇上fatal: unable to access 'https://github.com/bong860313/bong860313.github.io/': Failed to connect to github.com port 443 after 2084 ms: Connection refused 时，挂上代理：
+
+git config --global https.proxy http://127.0.0.1:7890
+
+git config --global http.proxy http://127.0.0.1:7890
+
